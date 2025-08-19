@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.b6ea737b.css",
-    "main.js": "/Project/static/js/main.313a2d91.js",
-    "static/media/shopping2.jpg": "/Project/static/media/shopping2.43511824899b11b12b82.jpg",
-    "static/media/shopping1.jpg": "/Project/static/media/shopping1.ec8f5f50c31aa1d1b768.jpg",
-    "static/media/shopping3.jpg": "/Project/static/media/shopping3.3b8fa76959b1a2bc0c78.jpg",
-    "static/media/fa-solid-900.ttf": "/Project/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
-    "static/media/fa-brands-400.ttf": "/Project/static/media/fa-brands-400.1815e00441357e01619e.ttf",
-    "static/media/info.jpg": "/Project/static/media/info.36544a7caa344204086c.jpg",
-    "static/media/fa-solid-900.woff2": "/Project/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
-    "static/media/fa-brands-400.woff2": "/Project/static/media/fa-brands-400.c210719e60948b211a12.woff2",
-    "static/media/fa-regular-400.ttf": "/Project/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
-    "static/media/fa-regular-400.woff2": "/Project/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Project/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Project/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
-    "index.html": "/Project/index.html",
-    "static/media/arrow_left.svg": "/Project/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
-    "static/media/arrow_right.svg": "/Project/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
-    "main.b6ea737b.css.map": "/Project/static/css/main.b6ea737b.css.map",
-    "main.313a2d91.js.map": "/Project/static/js/main.313a2d91.js.map"
+    "main.css": "/static/css/main.6e3f82d3.css",
+    "main.js": "/static/js/main.313a2d91.js",
+    "static/media/shopping2.jpg": "/static/media/shopping2.43511824899b11b12b82.jpg",
+    "static/media/shopping1.jpg": "/static/media/shopping1.ec8f5f50c31aa1d1b768.jpg",
+    "static/media/shopping3.jpg": "/static/media/shopping3.3b8fa76959b1a2bc0c78.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/info.jpg": "/static/media/info.36544a7caa344204086c.jpg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/index.html",
+    "static/media/arrow_left.svg": "/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.6e3f82d3.css.map": "/static/css/main.6e3f82d3.css.map",
+    "main.313a2d91.js.map": "/static/js/main.313a2d91.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ea737b.css",
+    "static/css/main.6e3f82d3.css",
     "static/js/main.313a2d91.js"
   ]
 }
