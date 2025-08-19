@@ -1,0 +1,112 @@
+.bg-info,.btn-info{
+    background: linear-gradient(45deg,rgb(20, 109, 169), rgb(45, 209, 209));
+}
+.btn-one{
+    background: linear-gradient(45deg, rgb(255, 221, 0));
+}
+.bg-mix,.btn-mix{
+    background: linear-gradient(90deg,  #0f2027, #203a43, #2c5364);
+}
+.btn-card{
+    background: linear-gradient(45deg, #00c6ff, #0072ff);
+}
+.bg-products{
+     background: linear-gradient(45deg,#78B9B5,#adb5bd);
+}
+.bg-warning{
+    background: linear-gradient(#e9c46a);
+}
+
+.hover-border:hover {
+  border: 1px solid #fff;
+  border-radius: 2px;
+  padding: 4px;
+  margin: 0;
+}
+
+.landing-wrapper{
+    background:  url("https://cdn.pixabay.com/photo/2024/02/06/16/59/paper-bag-8557551_1280.jpg") no-repeat scroll;
+    background-size: cover;
+    min-height: 100vh; 
+}
+
+.bg-login{
+    background:  url({./../assets/shopping2.jpg) no-repeat scroll;
+    background-size: cover;
+    min-height: 100vh; 
+    flex-direction: column;
+    display: flex;
+}
+
+.text-mix{
+    color: #ffffff;
+}
+.text-blue{
+    color: #feffff;
+}
+.bg-details,.btn-details{
+    background: linear-gradient(90deg, #0d606d );
+}
+.glass-card {
+  width: 100%;
+  max-width: 400px;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 12px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.bg-registration{
+    background:  url({./../assets/shopping3.jpg) no-repeat center scroll;
+    background-size: cover;
+    min-height: 100vh; 
+    flex-direction: column;
+    display: flex;
+}
+.bg-productdetails{
+    background:  url({./../assets/shopping1.jpg) no-repeat center scroll;
+    background-size: cover;
+    min-height: 100vh; 
+    flex-direction: column;
+    display: flex;
+}
+.bg-pagenotfound{
+    background: linear-gradient(rgb(74, 197, 205)) center scroll;
+    background-size: cover;
+    min-height: 100vh; 
+    flex-direction: column;
+    display: flex;
+}
+.bg-personalInfo{
+    background: url({./../assets/info.jpg) center scroll;
+    background-size: cover;
+    min-height: 100vh; 
+    flex-direction: column;
+    display: flex;
+}
+
+/* ------------ Mobile Responsive Fixes ------------ */
+@media (max-width: 768px){
+  html, body, #root {
+    height: 100%;     
+    margin: 0;
+    padding: 0;
+  }
+
+  .landing-wrapper, .bg-login, .bg-registration, .bg-productdetails, .bg-pagenotfound, .bg-personalInfo {
+    min-height: 100vh; 
+    background-size: cover;
+  }
+
+  .card, .glass-card {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  section {
+    min-height: auto; 
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0; 
+  }
+}
